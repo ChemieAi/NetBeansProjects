@@ -1,0 +1,4 @@
+com\mycompany\calculator_me\Calculator_me.class
+com\mycompany\calculator_me\Server.class
+com\mycompany\calculator_me\Client.class
+com\mycompany\calculator_me\ClientHandler.class
